@@ -1,0 +1,13 @@
+/*Stek block*/
+.stek__bg {
+    background: #7f5fd7;
+  }
+  .stek {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    padding: 7em 3em;
+  }

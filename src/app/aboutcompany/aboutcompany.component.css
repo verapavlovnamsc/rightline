@@ -1,0 +1,21 @@
+/*O kompanii*/
+.aboutcompany {
+    padding: 2em;
+    /*background-color: #37a8f9;*/
+    
+    color: white;
+    font-family: 'HelveticaNeueCyr';
+  }
+  .aboutcompany_zagolovok {
+    padding-bottom: 1em;
+    font-family: 'Ubuntu';
+  }
+  .aboutcompany__text {
+    font-family: 'HelveticaNeueCyr';
+    font-weight: nomal;
+    font-size: 18px;
+    padding-bottom: 2em;
+  }
+  .in {
+    margin: 1em 2em;
+  }
