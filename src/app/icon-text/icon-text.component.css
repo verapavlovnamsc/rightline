@@ -1,0 +1,23 @@
+/*Reshenia blok*/
+.reshenia {
+    padding: 1em;
+    margin-top: 1.7em;
+    margin-bottom: 3em;
+  }
+  .reshenia__icon {
+    margin: 2em 10em 0 10em;
+  }
+  .reshenia__smallzagolovok {
+    margin: 1em 5em;
+    font-family: 'Ubuntu';
+    font-weight: bold;
+  }
+  .reshenia__text {
+    padding-bottom: 1em;
+    font-family: 'HelveticaNeueCyr';
+  }
+  .reshenia__zagolovok {
+    font-family: 'Ubuntu';
+    font-weight: bold;
+    padding-bottom: .5em;
+  }

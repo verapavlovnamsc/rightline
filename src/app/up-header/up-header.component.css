@@ -1,0 +1,35 @@
+/*Header*/
+.header {
+    height: 8.6rem;
+    font-family: 'Ubuntu';
+    font-size: 18px;
+    font-weight: bold;
+    color: #414040;
+    -webkit-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);
+            box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);
+  }
+  .logo {
+    padding-top: .8em;
+    margin-bottom: .8em;
+    font-size: 22px;
+  }
+  .tel {
+    height: 7rem;
+    line-height: 7rem;
+    margin-top: .2em;
+  }
+  .nav {
+    height: 7rem;
+    line-height: 7rem;
+  }
+  .nav li {
+    list-style: none;
+    padding: 5px 10px;
+    display: inline-block;
+  }
+  .nav li a {
+    color: #333;
+  }
+  .nc li a {
+    color: #7f5fd7;
+  }
