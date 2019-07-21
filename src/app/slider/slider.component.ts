@@ -36,7 +36,7 @@ export class SliderComponent implements OnInit {
 
   fillDataIcons() {
     this.dataItems = new Array<SliderIconData>();
-    this.dataItems.push(new SliderIconData("Title1","P1", "assets/i/one.png", 0));
+    this.dataItems.push(new SliderIconData("Сбп-коннект","P1", "assets/i/one.png", 0));
     this.dataItems.push(new SliderIconData("Title2","P2", "assets/i/two.png", 1));
     this.dataItems.push(new SliderIconData("Title3","P3", "assets/i/three.png", 2));
   }
