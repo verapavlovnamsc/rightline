@@ -1,0 +1,72 @@
+/*Fonts*/
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('../assets/fonts/Ubuntu-Regular.eot');
+    src: url('../assets/fonts/Ubuntu-Regular.eot?#iefix') format('embedded-opentype'), url('../assets/fonts/Ubuntu-Regular.woff2') format('woff2'), url('../assets/fonts/Ubuntu-Regular.woff') format('woff'), url('../assets/fonts/Ubuntu-Regular.ttf') format('truetype'), url('../assets/fonts/Ubuntu-Regular.svg#Ubuntu-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'Ubuntu';
+    src: url('../assets/fonts/Ubuntu-Bold.eot');
+    src: url('../assets/fonts/Ubuntu-Bold.eot?#iefix') format('embedded-opentype'), url('../assets/fonts/Ubuntu-Bold.woff2') format('woff2'), url('../assets/fonts/Ubuntu-Bold.woff') format('woff'), url('../assets/fonts/Ubuntu-Bold.ttf') format('truetype'), url('../assets/fonts/Ubuntu-Bold.svg#Ubuntu-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'Ubuntu';
+    src: url('../assets/fonts/Ubuntu-Light.eot');
+    src: url('../assets/fonts/Ubuntu-Light.eot?#iefix') format('embedded-opentype'), url('../assets/fonts/Ubuntu-Light.woff2') format('woff2'), url('../assets/fonts/Ubuntu-Light.woff') format('woff'), url('../assets/fonts/Ubuntu-Light.ttf') format('truetype'), url('../assets/fonts/Ubuntu-Light.svg#Ubuntu-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'Ubuntu';
+    src: url('../assets/fonts/Ubuntu-Medium.eot');
+    src: url('../assets/fonts/Ubuntu-Medium.eot?#iefix') format('embedded-opentype'), url('../assets/fonts/Ubuntu-Medium.woff2') format('woff2'), url('../assets/fonts/Ubuntu-Medium.woff') format('woff'), url('../assets/fonts/Ubuntu-Medium.ttf') format('truetype'), url('../assets/fonts/Ubuntu-Medium.svg#Ubuntu-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'HelveticaNeueCyr';
+    src: url('../assets/fonts/HelveticaNeueCyr-Light.eot');
+    src: url('../assets/fonts/HelveticaNeueCyr-Light.eot?#iefix') format('embedded-opentype'), url('../assets/fonts/HelveticaNeueCyr-Light.woff2') format('woff2'), url('../assets/fonts/HelveticaNeueCyr-Light.woff') format('woff'), url('../assets/fonts/HelveticaNeueCyr-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'HelveticaNeueCyr';
+    src: url('../assets/fonts/HelveticaNeueCyr-Thin.eot');
+    src: url('../assets/fonts/HelveticaNeueCyr-Thin.eot?#iefix') format('embedded-opentype'), url('../assets/fonts/HelveticaNeueCyr-Thin.woff2') format('woff2'), url('../assets/fonts/HelveticaNeueCyr-Thin.woff') format('woff'), url('../assets/fonts/HelveticaNeueCyr-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'HelveticaNeueCyr';
+    src: url('../assets/fonts/HelveticaNeueCyr-Roman.eot');
+    src: url('../assets/fonts/HelveticaNeueCyr-Roman.eot?#iefix') format('embedded-opentype'), url('../assets/fonts/HelveticaNeueCyr-Roman.woff2') format('woff2'), url('../assets/fonts/HelveticaNeueCyr-Roman.woff') format('woff'), url('../assets/fonts/HelveticaNeueCyr-Roman.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'HelveticaNeueCyr';
+    src: url('../assets/fonts/HelveticaNeueCyr-Medium.eot');
+    src: url('../assets/fonts/HelveticaNeueCyr-Medium.eot?#iefix') format('embedded-opentype'), url('../assets/fonts/HelveticaNeueCyr-Medium.woff2') format('woff2'), url('../assets/fonts/HelveticaNeueCyr-Medium.woff') format('woff'), url('../assets/fonts/HelveticaNeueCyr-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'HelveticaNeueCyr';
+    src: url('../assets/fonts/HelveticaNeueCyr-Bold.eot');
+    src: url('../assets/fonts/HelveticaNeueCyr-Bold.eot?#iefix') format('embedded-opentype'), url('../assets/fonts/HelveticaNeueCyr-Bold.woff2') format('woff2'), url('../assets/fonts/HelveticaNeueCyr-Bold.woff') format('woff'), url('../assets/fonts/HelveticaNeueCyr-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'HelveticaNeueCyr';
+    src: url('../assets/fonts/HelveticaNeueCyr-UltraLight.eot');
+    src: url('../assets/fonts/HelveticaNeueCyr-UltraLight.eot?#iefix') format('embedded-opentype'), url('../assets/fonts/HelveticaNeueCyr-UltraLight.woff2') format('woff2'), url('../assets/fonts/HelveticaNeueCyr-UltraLight.woff') format('woff'), url('../assets/fonts/HelveticaNeueCyr-UltraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+  }
+  

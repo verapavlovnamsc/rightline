@@ -1,20 +1,25 @@
 /*Footer*/
 .footer {
     background: #121111;
-    color: white;
+    color: grey;
     height: 7rem;
     min-height: 100%;
   }
   .cop__adr {
     padding-top: .9em;
+    vertical-align:middle;
   }
   .contacts {
     padding-top: .9em;
+    position: absolute;
+    top: 50%;
   }
   .log {
     padding-top: .9em;
   }
   .niz__nav {
     padding-top: .9em;
+    position: absolute;
+    top: 50%;
   }
   

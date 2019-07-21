@@ -1,0 +1,27 @@
+
+/*Reshenia*/
+
+.resheniaItem {
+	height: 500px;
+	width: 400px;
+	border: .7px solid grey; 
+	box-shadow: 0 0 4px rgba(179, 176, 176, 0.5);
+	margin: 3em;
+}
+.reshenia__foto {
+	height: 200px;
+	/*background-image: url("assets/i/one.png");*/
+	background-size: cover;
+}
+.reshenia__zagolovok {
+	background-color: #5c5959;
+	color: white;
+	height: 78px;
+	font-size: 25px;
+	text-align: left;
+	padding: .5em;
+}
+
+.reshenia__text {
+	padding: 1em;
+}

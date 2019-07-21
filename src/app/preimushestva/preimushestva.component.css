@@ -1,0 +1,31 @@
+
+
+/*Preimushestva*/
+.preimushestva__zagolovok {
+	text-align: center;
+	padding-bottom: 1em;
+    font-family: 'Ubuntu';
+	font-weight: bold;
+}
+
+.preimushestva  {
+	color: white;
+	background-color: #37a8f9;
+	padding: 3em;
+}
+
+
+
+.preimushestva__icon {
+    margin: 2em 10em 0 10em;
+  }
+  .preimushestva__smallzagolovok {
+    margin: 1em 5em;
+    font-family: 'Ubuntu';
+    font-weight: bold;
+  }
+  .preimushestva__text {
+    padding-bottom: 1em;
+    font-family: 'HelveticaNeueCyr';
+  }
+  

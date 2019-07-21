@@ -16,6 +16,10 @@ import { SecondIconsComponent } from './second-icons/second-icons.component';
 import { MainPageComponent } from './main-page/main-page.component';
 import { RouterModule } from '@angular/router';
 import { ResheniaPageComponent } from './reshenia-page/reshenia-page.component';
+import { PreimushestvaComponent } from './preimushestva/preimushestva.component';
+import { ResheniaComponent } from './reshenia/reshenia.component';
+import { AboutcompanyPageComponent } from './aboutcompany-page/aboutcompany-page.component';
+import { SliderItemComponent } from './slider-item/slider-item.component';
 
 @NgModule({
   declarations: [
@@ -29,7 +33,11 @@ import { ResheniaPageComponent } from './reshenia-page/reshenia-page.component';
     FirstIconsComponent,
     SecondIconsComponent,
     MainPageComponent,
-    ResheniaPageComponent
+    ResheniaPageComponent,
+    PreimushestvaComponent,
+    ResheniaComponent,
+    AboutcompanyPageComponent,
+    SliderItemComponent
   ],
   imports: [
     BrowserModule,
@@ -37,7 +45,8 @@ import { ResheniaPageComponent } from './reshenia-page/reshenia-page.component';
     HttpClientModule,
     RouterModule.forRoot([
       {path:'', component:MainPageComponent, pathMatch:'full' }, 
-      {path:'resheniaPage', component:ResheniaPageComponent}
+      {path:'resheniaPage', component:ResheniaPageComponent},
+      {path:'aboutCompanyPage', component:AboutcompanyPageComponent}
     ])
   ],
   providers: [IconTextDataService],
