@@ -1,0 +1,9 @@
+/*Sotrudniki blok - o kompanii-page*/
+.sotrudniki {
+    /*background-image: url("assets/i/one.png");*/
+    height: 650px;
+    max-width: 1980px;
+    background-size: 100%;
+    margin: 0 -15px 0 -15px;
+  }
+  

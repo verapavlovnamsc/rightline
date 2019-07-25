@@ -20,6 +20,9 @@ import { PreimushestvaComponent } from './preimushestva/preimushestva.component'
 import { ResheniaComponent } from './reshenia/reshenia.component';
 import { AboutcompanyPageComponent } from './aboutcompany-page/aboutcompany-page.component';
 import { SliderItemComponent } from './slider-item/slider-item.component';
+import { ContactPageComponent } from './contact-page/contact-page.component';
+import { PhotoSotrudnikiComponent } from './photo-sotrudniki/photo-sotrudniki.component';
+import { CredoComponent } from './credo/credo.component';
 
 @NgModule({
   declarations: [
@@ -37,7 +40,10 @@ import { SliderItemComponent } from './slider-item/slider-item.component';
     PreimushestvaComponent,
     ResheniaComponent,
     AboutcompanyPageComponent,
-    SliderItemComponent
+    SliderItemComponent,
+    ContactPageComponent,
+    PhotoSotrudnikiComponent,
+    CredoComponent
   ],
   imports: [
     BrowserModule,
@@ -46,7 +52,8 @@ import { SliderItemComponent } from './slider-item/slider-item.component';
     RouterModule.forRoot([
       {path:'', component:MainPageComponent, pathMatch:'full' }, 
       {path:'resheniaPage', component:ResheniaPageComponent},
-      {path:'aboutCompanyPage', component:AboutcompanyPageComponent}
+      {path:'aboutCompanyPage', component:AboutcompanyPageComponent},
+      {path:'contactPage', component:ContactPageComponent}
     ])
   ],
   providers: [IconTextDataService],
