@@ -21,6 +21,7 @@
   .nav {
     height: 8rem;
     line-height: 8rem;
+    padding-left: 17em;
   }
   .nav li {
     list-style: none;
