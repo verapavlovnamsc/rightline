@@ -23,6 +23,8 @@ import { SliderItemComponent } from './slider-item/slider-item.component';
 import { ContactPageComponent } from './contact-page/contact-page.component';
 import { PhotoSotrudnikiComponent } from './photo-sotrudniki/photo-sotrudniki.component';
 import { CredoComponent } from './credo/credo.component';
+import { DoveriutComponent } from './doveriut/doveriut.component';
+import { CareerComponent } from './career/career.component';
 
 @NgModule({
   declarations: [
@@ -43,7 +45,9 @@ import { CredoComponent } from './credo/credo.component';
     SliderItemComponent,
     ContactPageComponent,
     PhotoSotrudnikiComponent,
-    CredoComponent
+    CredoComponent,
+    DoveriutComponent,
+    CareerComponent
   ],
   imports: [
     BrowserModule,

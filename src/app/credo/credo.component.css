@@ -1,0 +1,19 @@
+/*Credo blok - o kompanii-page*/
+.credo__img {
+    padding: 4em;
+  }
+  .credo__text {
+    padding: 4em;
+  }
+  .credo__zagolovok {
+    font-family: 'Ubuntu';
+    font-weight: bold;
+    font-size: 40px;
+  }
+  .credo__abzac {
+    font-family: 'HelveticaNeueCyr';
+    font-weight: normal;
+    font-size: 18px;
+    padding-top: 2em;
+    text-align: justify;
+  }

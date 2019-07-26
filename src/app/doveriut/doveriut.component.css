@@ -1,0 +1,20 @@
+.doveriaut__bg  {
+    padding: 3em;
+}
+
+.doveriut {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+
+}
+
+.doveriut img {
+    
+   width: 16%;
+   padding:1em;
+}
+
