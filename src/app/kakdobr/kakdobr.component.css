@@ -1,0 +1,19 @@
+.dobratsia {
+    padding: 2em;
+    background: -webkit-gradient(linear, right top, left top, from(#0090ed), to(#7d66de));
+    background: linear-gradient(to left, #0090ed, #7d66de);
+    color: white;
+    height: 350px;
+  }
+  .dobratsia_zagolovok {
+    font-family: 'Ubuntu';
+    font-weight: bold;
+    font-size: 40px;
+  }
+  .dobratsia__text {
+    font-family: 'HelveticaNeueCyr';
+    font-weight: normal;
+    font-size: 18px;
+    padding-top: 1em;
+    text-align: justify;
+  }

@@ -1,0 +1,9 @@
+/*Karta blok - o kompanii-page*/
+.karta {
+    background-image: url(/assets/i/karta.png);
+    height: 650px;
+    max-width: 1980px;
+    background-size: 100%;
+    margin: 0 -15px 0 -15px;
+  }
+  

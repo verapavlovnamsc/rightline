@@ -25,6 +25,8 @@ import { PhotoSotrudnikiComponent } from './photo-sotrudniki/photo-sotrudniki.co
 import { CredoComponent } from './credo/credo.component';
 import { DoveriutComponent } from './doveriut/doveriut.component';
 import { CareerComponent } from './career/career.component';
+import { KakdobrComponent } from './kakdobr/kakdobr.component';
+import { KartaComponent } from './karta/karta.component';
 
 @NgModule({
   declarations: [
@@ -47,7 +49,9 @@ import { CareerComponent } from './career/career.component';
     PhotoSotrudnikiComponent,
     CredoComponent,
     DoveriutComponent,
-    CareerComponent
+    CareerComponent,
+    KakdobrComponent,
+    KartaComponent
   ],
   imports: [
     BrowserModule,

@@ -8,9 +8,19 @@
 	box-shadow: 0 0 4px rgba(179, 176, 176, 0.5);
 	margin: 3em;
 }
-.reshenia__foto {
+.reshenia__foto__sbp {
 	height: 200px;
-	/*background-image: url("assets/i/one.png");*/
+	background-image: url("/assets/i/one.png");
+	background-size: cover;
+}
+.reshenia__foto__3d {
+	height: 200px;
+	background-image: url("/assets/i/two.png");
+	background-size: cover;
+}
+.reshenia__foto__ekv {
+	height: 200px;
+	background-image: url("/assets/i/three.png");
 	background-size: cover;
 }
 .reshenia__zagolovok {
