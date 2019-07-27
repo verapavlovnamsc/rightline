@@ -10,8 +10,8 @@
 
 .preimushestva  {
 	color: white;
-	background-color: #37a8f9;
-	padding: 3em;
+	
+	
 }
 
 
@@ -28,4 +28,14 @@
     padding-bottom: 1em;
     font-family: 'HelveticaNeueCyr';
   }
+
+
+  .bg__preimushestva {
+    background: #bec0c2;
+  }
+  .container {
+    background-color: #37a8f9;
+   width: 1250px;
+  }
+ 
   

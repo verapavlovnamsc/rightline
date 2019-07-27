@@ -2,3 +2,23 @@ img {
   width: 100%;
   margin-top: -18px;
 }
+.container {
+  width: 1280px;
+}
+
+.bg__slider {
+  background: #bec0c2;
+}
+
+
+@media(max-width: 780px) {
+  .container {
+    width: 100%;
+    
+	}
+	img {
+    
+  }
+
+	
+}

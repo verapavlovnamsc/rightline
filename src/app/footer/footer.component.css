@@ -1,6 +1,6 @@
 /*Footer*/
 .footer {
-    background: #121111;
+    
     color: grey;
     height: 7rem;
     min-height: 100%;
@@ -18,8 +18,23 @@
     padding-top: .9em;
   }
   .niz__nav {
-    padding-top: .9em;
+    padding-top: 1.5em;
     position: absolute;
     top: 50%;
   }
+
+  .niz__nav li {
+    list-style: none;
+    padding: 0 10px;
+    display: inline-block;
+    top: 50%;
+  }
+  .bg__footer {
+    background: #bec0c2;
+  }
+  .container {
+   width: 1250px;
+   background: #121111;
+  }
+ 
   

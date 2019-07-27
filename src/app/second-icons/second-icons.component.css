@@ -1,23 +1,42 @@
 /*Napravlenia*/
 .napravlenia {
-    padding: 1em;
-    margin-top: 1.7em;
-    margin-bottom: 3em;
+    
+    
   }
   .napravlenia__icon {
-    margin: 2em 10em 0 10em;
+    margin: 0 7em 0 7em;
+    width: 90px;
   }
   .napravlenia__smallzagolovok {
-    margin: 1em 2em;
+    margin: 1em 1em;
     font-family: 'Ubuntu';
     font-weight: bold;
   }
-  .reshenia__text {
+  .napravlenia__text{
     padding-bottom: 1em;
     font-family: 'HelveticaNeueCyr';
+    text-align: justify;
   }
   .napravlenia__zagolovok {
     font-family: 'Ubuntu';
     font-weight: bold;
     padding-bottom: .5em;
+    padding-left: 1em;
   }
+
+  .bg__napravlenia {
+    background: #bec0c2;
+  }
+  .container {
+   background: white;
+   width: 1250px;
+   padding: 4em;
+  }
+
+  
+  @media(max-width: 780px) {
+    .napravlenia__text {
+      width: 35%;
+      }
+     
+    }

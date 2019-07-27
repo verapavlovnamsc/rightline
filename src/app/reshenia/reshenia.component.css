@@ -3,7 +3,7 @@
 
 .resheniaItem {
 	height: 500px;
-	width: 400px;
+	width: 300px;
 	border: .7px solid grey; 
 	box-shadow: 0 0 4px rgba(179, 176, 176, 0.5);
 	margin: 3em;
@@ -35,3 +35,13 @@
 .reshenia__text {
 	padding: 1em;
 }
+
+
+.bg__reshenia {
+    background: #bec0c2;
+  }
+  .container {
+	background:  white;
+   width: 1250px;
+  }
+ 

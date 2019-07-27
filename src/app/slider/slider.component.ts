@@ -20,9 +20,9 @@ export class SliderComponent implements OnInit {
     this.textForImages = new Array<string>();
     this.currentSliderIconData = new SliderIconData("","", "", -1);
     this.index = 0;
-    this.images.push("assets/i/one.png");
+    this.images.push("assets/i/sbp.png");
     this.images.push("assets/i/two.png");
-    this.images.push("assets/i/three.png");
+    this.images.push("assets/i/ekv.png");
     this.textForImages.push("ytguhnjimk,");
     this.textForImages.push("fvgbhjnkml,;.//'kgvbnhjmk,l.;");
     this.textForImages.push("yfvgbhnjmk,l,");

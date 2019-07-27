@@ -1,3 +1,11 @@
+/*Basic*/
+
+body {
+  background: red;
+
+}
+
+
 /*Fonts*/
 @font-face {
     font-family: 'Ubuntu';

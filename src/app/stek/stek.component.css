@@ -1,6 +1,6 @@
 /*Stek block*/
 .stek__bg {
-    background: #7f5fd7;
+    
   }
   .stek {
     display: -webkit-box;
@@ -10,4 +10,11 @@
         -ms-flex-pack: justify;
             justify-content: space-between;
     padding: 7em 3em;
+  }
+  .bg__stek__global {
+    background: #bec0c2;
+  }
+  .container {
+   background: #7f5fd7;
+   width: 1250px;
   }

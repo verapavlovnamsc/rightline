@@ -1,7 +1,7 @@
 /*O kompanii blok*/
 .career {
-    padding: 2em;
-    background-color: #37a8f9;
+    
+    
     color: white;
     font-family: 'HelveticaNeueCyr';
   }
@@ -18,3 +18,16 @@
   .in {
     margin: 1em 2em;
   }
+
+
+  
+  .bg__career {
+    background: #bec0c2;
+
+  }
+  .container {
+    background-color: #37a8f9;
+   width: 1250px;
+  }
+ 
+

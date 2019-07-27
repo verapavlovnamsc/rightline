@@ -5,10 +5,12 @@
     margin-bottom: 3em;
   }
   .reshenia__icon {
-    margin: 2em 10em 0 10em;
+    margin: 2em 7em 0 7em;
+    padding: 1em;
+    width: 120px;
   }
   .reshenia__smallzagolovok {
-    margin: 1em 5em;
+    margin: 1em 3.5em;
     font-family: 'Ubuntu';
     font-weight: bold;
   }
@@ -16,9 +18,32 @@
     padding-bottom: 1em;
     font-family: 'HelveticaNeueCyr';
     padding: 1em;
+    text-align: justify;
   }
   .reshenia__zagolovok {
     font-family: 'Ubuntu';
     font-weight: bold;
-    padding-bottom: .5em;
+    padding-bottom: 1em;
   }
+  .container {
+    padding: 4em;
+  }
+
+  .bg__first-icon {
+    background: #bec0c2;
+  }
+  .container {
+   background: white;
+   width: 1250px;
+  }
+
+
+ 
+
+  @media(max-width: 780px) {
+    .reshenia__text {
+      width: 35%;
+      }
+     
+    }
+  

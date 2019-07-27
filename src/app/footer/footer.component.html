@@ -1,8 +1,7 @@
-
-
 <!-- Block footer -->
+<div class="bg__footer">
 <div class="footer">
-  <div class="container-fluid">
+  <div class="container">
       <div class="row">
         
           <div class="col-md-1">
@@ -24,15 +23,18 @@
                     info@rtln.ru
                 </div>
             </div>
-           
-
 
             <div class="col-md-5">
                 <div class="niz__nav">
-                    Решения   О компании    Контакты
+                    <ul>
+                        <li><a [routerLink]="['/resheniaPage']">Решения</a></li>
+                       <li><a [routerLink]="['/aboutCompanyPage']">О компании</a></li>   
+                       <li class="nc"><a [routerLink]="['/contactPage']">Контакты</a></li>
+                       </ul>
                 </div>
             </div>
       
       </div>
+    </div>
     </div>
   

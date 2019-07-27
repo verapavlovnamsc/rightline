@@ -1,6 +1,6 @@
 /*O kompanii*/
 .aboutcompany {
-    padding: 2em;
+    padding: 3em;
     background-color: #37a8f9;
     
     color: white;
@@ -8,6 +8,7 @@
   }
   .aboutcompany_zagolovok {
     padding-bottom: 1em;
+    padding-left: .8em;
     font-family: 'Ubuntu';
   }
   .aboutcompany__text {
@@ -15,7 +16,28 @@
     font-weight: nomal;
     font-size: 18px;
     padding-bottom: 2em;
+    padding-left: 1.3em;
+    padding-right: 1.3em;
+    text-align: justify;
   }
   .in {
     margin: 1em 2em;
   }
+
+  .bg__aboutcompany {
+    background: #bec0c2;
+  }
+  .container {
+   
+   width: 1280px;
+  }
+
+  @media(max-width: 780px) {
+    .aboutcompany__text {
+      width: 35%;
+      }
+     
+    }
+  
+
+  

@@ -5,8 +5,8 @@
     font-size: 18px;
     font-weight: bold;
     color: #414040;
-    -webkit-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);
-            box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);
+   /* -webkit-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);
+            box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);*/
   }
   .logo {
     padding-top: .6em;
@@ -21,6 +21,7 @@
   .nav {
     height: 8rem;
     line-height: 8rem;
+    padding-left: 7em;
     
   }
   .nav li {
@@ -34,3 +35,22 @@
   .nc a {
     color: #7f5fd7 !important;
   }
+
+ .bg__header {
+   background: #bec0c2;
+ }
+ .container {
+  background: white;
+  width: 1250px;
+ }
+
+ @media(max-width: 780px) {
+	.logo img {
+    width: 100px;
+    }
+    nav {
+      
+    }
+  }
+
+ 

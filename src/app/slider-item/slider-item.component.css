@@ -1,5 +1,6 @@
 .title {
-    padding: 2.5em 7em 0 6em;
+    width: 1000px;
+    padding: 2.5em 7em 0 3.2em;
     font-size: 47px;
     font-weight: bold;
     font-family: "Ubuntu";
@@ -7,10 +8,24 @@
 
 
 .paragraph {
-    width: 1000px;
-    padding: 0 15em 0 0;
-    margin-left: 13em;
+    width: 1050px;
+    padding: 0 15em 0 7em;
+    
     font-size: 22px;
-    font-weight: nomal;
+    font-weight: 500;
     font-family: 'HelveticaNeueCyr';
+    text-align: justify;
+}
+
+@media(max-width: 780px) {
+	img{
+    width: 70%;
+    background-repeat: no-repeat;
+    }
+    .paragraph {
+        width: 40%;   
+    }
+	
+
+	
 }
