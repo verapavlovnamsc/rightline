@@ -16,7 +16,7 @@ export class SliderItemComponent implements OnInit {
   getMyStyles() {
     let myStyles = {
       'background-image': `url(${this.data.iconurl})`,
-      'background-repeat': 'no',
+      'background-repeat': 'no-repeat',
       'background-size': '100%',
       'height': '700px'
 
