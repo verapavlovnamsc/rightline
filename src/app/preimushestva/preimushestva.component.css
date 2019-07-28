@@ -32,8 +32,9 @@
     background: #bec0c2;
   }
   .container {
-    background-color: #37a8f9;
-   width: 1250px;
+    background: -webkit-gradient(linear, right top, left top, from(#0090ed), to(#7d66de));
+    background: linear-gradient(to left, #0090ed, #7d66de);
+    width: 1250px;
   }
  
   .preimushestva-item {

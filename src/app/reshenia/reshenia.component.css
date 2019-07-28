@@ -6,8 +6,9 @@
 	width: 300px;
 	border: .7px solid grey; 
 	/*box-shadow: 0 0 4px rgba(179, 176, 176, 0.5);*/
-	margin: 3em;
-	padding-bottom: 1em;
+	margin: 2em;
+	
+	
 }
 .reshenia__foto__sbp {
 	height: 200px;
@@ -31,7 +32,7 @@
 }
 .reshenia__foto__per {
 	height: 200px;
-	background-image: url("/assets/i/zapas.jpg");
+	background-image: url("/assets/i/perevod.png");
 	background-size: cover;
 }
 .reshenia__foto__bo {

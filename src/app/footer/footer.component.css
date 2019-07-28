@@ -8,11 +8,15 @@
   .cop__adr {
     padding-top: .9em;
     vertical-align:middle;
+    
   }
   .contacts {
     padding-top: .9em;
     position: absolute;
     top: 50%;
+    padding-top: .9em;
+    vertical-align:middle;
+  
   }
   .log {
     padding-top: .9em;
