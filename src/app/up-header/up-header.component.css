@@ -46,9 +46,12 @@
 
  @media(max-width: 780px) {
 	.logo img {
-    width: 100px;
+    width: 140px;
     }
     nav {
+      padding-top: 20px;
+      padding-left: 1em;
+      font-size: 10px;
       
     }
   }

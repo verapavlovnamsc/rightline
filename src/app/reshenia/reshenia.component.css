@@ -2,11 +2,12 @@
 /*Reshenia*/
 
 .resheniaItem {
-	height: 500px;
+	height: 550px;
 	width: 300px;
 	border: .7px solid grey; 
-	box-shadow: 0 0 4px rgba(179, 176, 176, 0.5);
+	/*box-shadow: 0 0 4px rgba(179, 176, 176, 0.5);*/
 	margin: 3em;
+	padding-bottom: 1em;
 }
 .reshenia__foto__sbp {
 	height: 200px;
@@ -23,13 +24,29 @@
 	background-image: url("/assets/i/three.png");
 	background-size: cover;
 }
+.reshenia__foto__pin {
+	height: 200px;
+	background-image: url("/assets/i/pincode.jpg");
+	background-size: cover;
+}
+.reshenia__foto__per {
+	height: 200px;
+	background-image: url("/assets/i/zapas.jpg");
+	background-size: cover;
+}
+.reshenia__foto__bo {
+	height: 200px;
+	background-image: url("/assets/i/beskontopl.jpg");
+	background-size: cover;
+}
 .reshenia__zagolovok {
 	background-color: #5c5959;
 	color: white;
-	height: 78px;
-	font-size: 25px;
+	height: 10rem;
+	font-size: 20px;
 	text-align: left;
-	padding: .5em;
+	line-height: 10rem;
+	padding-left: 1em;
 }
 
 .reshenia__text {

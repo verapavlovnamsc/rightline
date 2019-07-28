@@ -9,16 +9,19 @@
 .career {
   color: white;
   font-family: 'HelveticaNeueCyr';
+  
 }
 .career_zagolovok {
-  padding-bottom: 1em;
+  padding: .8em;
   font-family: 'Ubuntu';
+  
 }
 .career__text {
   font-family: 'HelveticaNeueCyr';
   font-weight: nomal;
-  font-size: 18px;
-  padding-bottom: 2em;
+  font-size: 15px;
+  margin-bottom: 2em;
+  padding: 1em;
 }
  
 

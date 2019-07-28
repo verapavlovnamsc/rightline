@@ -18,14 +18,13 @@
 }
 
 @media(max-width: 780px) {
-	img{
-    width: 70%;
-    background-repeat: no-repeat;
+    .title {   
+        font-size: 30px;
+        padding-left: 2.3em;  
     }
     .paragraph {
-        width: 40%;   
-    }
-	
-
-	
+        font-size: 18px;
+        padding-left: 4em;
+        width: 36em;
+   }	
 }

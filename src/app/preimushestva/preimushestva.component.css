@@ -5,19 +5,17 @@
 	text-align: center;
 	padding-bottom: 1em;
     font-family: 'Ubuntu';
-	font-weight: bold;
+  font-weight: bold;
+  padding: 2em;
 }
 
 .preimushestva  {
-	color: white;
-	
-	
+  color: white;	
 }
-
-
 
 .preimushestva__icon {
     margin: 2em 10em 0 10em;
+    
   }
   .preimushestva__smallzagolovok {
     margin: 1em 5em;
@@ -38,4 +36,7 @@
    width: 1250px;
   }
  
+  .preimushestva-item {
+    padding: 2em;
+  }
   

@@ -10,6 +10,8 @@
         -ms-flex-pack: justify;
             justify-content: space-between;
 
+    padding: 3em;
+
 }
 
 .doveriut img {
@@ -26,5 +28,14 @@
     background: white;
    width: 1250px;
   }
+
+
+.zagolovok__doveriut {
+    font-family: 'Ubuntu';
+    font-weight: bold;
+    font-size: 40px;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
  
 
