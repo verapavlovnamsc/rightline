@@ -1,6 +1,7 @@
 img {
-  width: 100%;
+  
   margin-top: -18px;
+  background-repeat: no-repeat;
 }
 .container {
   width: 1280px;

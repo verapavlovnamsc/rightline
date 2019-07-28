@@ -1,33 +1,24 @@
-/*O kompanii blok*/
+.bg__career {
+  background: #bec0c2;
+
+}
+.container {
+  background-color: #37a8f9;
+  width: 1250px;
+}
 .career {
-    
-    
-    color: white;
-    font-family: 'HelveticaNeueCyr';
-  }
-  .career_zagolovok {
-    padding-bottom: 1em;
-    font-family: 'Ubuntu';
-  }
-  .career__text {
-    font-family: 'HelveticaNeueCyr';
-    font-weight: nomal;
-    font-size: 18px;
-    padding-bottom: 2em;
-  }
-  .in {
-    margin: 1em 2em;
-  }
-
-
-  
-  .bg__career {
-    background: #bec0c2;
-
-  }
-  .container {
-    background-color: #37a8f9;
-   width: 1250px;
-  }
+  color: white;
+  font-family: 'HelveticaNeueCyr';
+}
+.career_zagolovok {
+  padding-bottom: 1em;
+  font-family: 'Ubuntu';
+}
+.career__text {
+  font-family: 'HelveticaNeueCyr';
+  font-weight: nomal;
+  font-size: 18px;
+  padding-bottom: 2em;
+}
  
 
