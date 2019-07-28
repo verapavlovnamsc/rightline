@@ -48,10 +48,20 @@
 	.logo img {
     width: 140px;
     }
-    nav {
-      padding-top: 20px;
+    .nav {
+      padding-top: -10px;
       padding-left: 1em;
-      font-size: 10px;
+
+      
+      
+      
+    }
+    .n {
+      display:none;
+    }
+    .nav li {
+     
+      padding: 0 2px;
       
     }
   }

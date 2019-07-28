@@ -18,3 +18,15 @@
    background: #7f5fd7;
    width: 1250px;
   }
+
+@media(max-width: 780px) {
+  .stek {
+    display: none;
+    
+	}
+	img {
+    
+  }
+
+	
+}

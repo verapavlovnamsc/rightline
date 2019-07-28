@@ -1,23 +1,20 @@
 img {
-
   background-repeat: no-repeat;
 }
 .container {
   width: 1280px;
 }
-
 .bg__slider {
   background: #bec0c2;
 }
 
 
 @media(max-width: 780px) {
-  .container {
-    width: 100%;
-    
+  .slider {
+    display: none; 
 	}
-	img {
-    
+	.bg__slider { 
+    display: none; 
   }
 
 	

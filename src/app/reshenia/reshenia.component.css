@@ -62,4 +62,15 @@
 	background:  white;
    width: 1250px;
   }
+
+
+  @media(max-width: 780px) {
+	.bg__reshenia {
+	margin-left: 2px;
+	padding-left: -15px;
+    }
+    
+  }
+
+  
  
