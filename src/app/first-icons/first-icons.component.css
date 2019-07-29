@@ -44,6 +44,13 @@
     .reshenia__text {
       width: 35%;
       }
-     
+    .reshenia-item {
+      margin: 0;
+      padding: 0;
+    }
+    .reshenia__text {
+      margin: 0;
+      padding: 0;
+    }
     }
   
