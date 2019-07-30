@@ -7,7 +7,8 @@
   }
   .cop__adr {
     padding-top: .9em;
-    vertical-align:middle;
+    vertical-align: middle;
+    margin-left: -15px;
     
   }
   .contacts {
@@ -16,7 +17,6 @@
     top: 50%;
     padding-top: .9em;
     vertical-align:middle;
-  
   }
   .log {
     padding-top: .9em;

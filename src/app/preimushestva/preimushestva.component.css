@@ -1,6 +1,3 @@
-
-
-/*Preimushestva*/
 .preimushestva__zagolovok {
 	text-align: center;
 	padding-bottom: 1em;
@@ -8,41 +5,35 @@
   font-weight: bold;
   padding: 2em;
 }
-
 .preimushestva  {
   color: white;	
 }
-
 .preimushestva__icon {
-    margin: 2em 10em 0 10em;
+  margin: 2em 10em 0 10em;
     
   }
-  .preimushestva__smallzagolovok {
-    margin: 1em 5em;
-    font-family: 'Ubuntu';
-    font-weight: bold;
+.preimushestva__smallzagolovok {
+  margin: 1em 5em;
+  font-family: 'Ubuntu';
+  font-weight: bold;
   }
-  .preimushestva__text {
-    padding-bottom: 1em;
-    font-family: 'HelveticaNeueCyr';
+.preimushestva__text {
+  padding-bottom: 1em;
+  font-family: 'HelveticaNeueCyr';
   }
-
-
-  .bg__preimushestva {
+.bg__preimushestva {
     background: #bec0c2;
   }
-  .container {
+.container {
     background: -webkit-gradient(linear, right top, left top, from(#0090ed), to(#7d66de));
     background: linear-gradient(to left, #0090ed, #7d66de);
     width: 1250px;
   }
- 
-  .preimushestva-item {
+.preimushestva-item {
     padding: 2em;
   }
 
-
-  @media(max-width: 780px) {
+@media(max-width: 780px) {
     .bg__preimushestva {
         display:none;
       }

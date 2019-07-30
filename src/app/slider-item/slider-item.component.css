@@ -10,11 +10,9 @@
 .paragraph {
     width: 1050px;
     padding: 0 15em 0 7em;
-    
     font-size: 22px;
     font-weight: 500;
     font-family: 'HelveticaNeueCyr';
-    text-align: justify;
 }
 
 @media(max-width: 780px) {
