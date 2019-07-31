@@ -17,12 +17,12 @@
     padding: 2em;
   }
   .bg__dobratsia {
-    background: #bec0c2;
+    background: #f5f5f6;
   }
   .container {
     background: -webkit-gradient(linear, right top, left top, from(#0090ed), to(#7d66de));
     background: linear-gradient(to left, #0090ed, #7d66de);
-    height: 450px;
+    height: 300px;
     width: 1250px;
   }
  

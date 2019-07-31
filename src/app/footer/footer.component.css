@@ -1,6 +1,5 @@
 /*Footer*/
 .footer {
-    
     color: grey;
     height: 7rem;
     min-height: 100%;
@@ -34,7 +33,7 @@
     top: 50%;
   }
   .bg__footer {
-    background: #bec0c2;
+    background: #f5f5f6;
   }
   .container {
    width: 1250px;

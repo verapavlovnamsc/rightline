@@ -1,7 +1,6 @@
 /*Napravlenia*/
 .napravlenia {
-    
-    
+  
   }
   .napravlenia__icon {
     margin: 0 7em 0 7em;
@@ -24,7 +23,7 @@
   }
 
   .bg__napravlenia {
-    background: #bec0c2;
+    background: #f5f5f6;
   }
   .container {
    background-color: #37a8f9;
