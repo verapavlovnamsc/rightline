@@ -10,10 +10,10 @@
   color: white;	
 }
 .preimushestva__icon {
-  margin: 2em 10em 0 10em; 
+  margin: 2em 8em 0 7em; 
   }
 .preimushestva__smallzagolovok {
-  margin: 1em 5em;
+  margin: 1em 3.6em;
   font-family: 'Ubuntu';
   font-weight: bold;
   }
@@ -28,10 +28,14 @@
     background: -webkit-gradient(linear, right top, left top, from(#0090ed), to(#7d66de));
     background: linear-gradient(to left, #0090ed, #7d66de);
     width: 1250px;
+    padding-left: 2em;
+    padding-right: 2em;
   }
 .preimushestva-item {
     padding: 1em;
     margin-bottom: 1em;
+    margin-left: .5em;
+    margin-right: .5em;
   }
 
 @media(max-width: 780px) {

@@ -5,19 +5,19 @@
     margin-bottom: 3em;
   }
   .reshenia__icon {
-    margin: 2em 7em 0 7em;
+    margin: 2em 8em 0 7em;
     padding: 1em;
     width: 120px;
   }
   .reshenia__smallzagolovok {
-    margin: 1em 3.5em;
+    margin: .5em 3.5em;
     font-family: 'Ubuntu';
     font-weight: bold;
   }
   .reshenia__text {
     padding-bottom: 1em;
     font-family: 'HelveticaNeueCyr';
-    padding: 1em;
+    padding: .6em;
   }
   .reshenia__zagolovok {
     font-family: 'Ubuntu';
